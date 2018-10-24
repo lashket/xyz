@@ -1,0 +1,807 @@
+
+
+button {
+    border-radius: 4px;
+    border: none;
+    color: #fff;
+}
+
+
+.menu-div ul li {
+    float: left;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.header-div img {
+    width: 50px;
+    height: 50px;
+}
+
+.button-div button {
+    width: 128px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 1px #e1e7ef;
+}
+
+.button-div button span {
+
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #227afe;
+
+}
+
+.intro-div {
+    margin-top: 77px;
+    align-items: center;
+    display: flex;
+}
+
+.intro-div-text h2 {
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    padding-right: 248px;
+
+    color: #0b284c;
+}
+
+.intro-div-text p {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    padding-right: 248px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+
+.email-input-div {
+    margin-top: 40px;
+    width: 435px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    border: solid 1px #e1e7ef;
+    display: flex;
+}
+
+.gradient-button {
+    width: 128px;
+    height: 40px;
+    background-image: linear-gradient(243deg, #46b2ff, #227afe);
+    margin: 5px;
+}
+
+.email-input-div input {
+    float: left;
+    border: none;
+    width: 300px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+::placeholder {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.25);
+}
+
+.magig-items-title-div {
+    margin-top: 276px;
+    text-align: center;
+    float: bottom;
+}
+
+.magig-items-title-div h3 {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.magic-image-container img {
+    width: 70px;
+}
+
+.magig-items-title-div p {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.magic-tabs {
+    height: 110px;
+    border-radius: 24px;
+    border: solid 1px #e1e7ef;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: flex;
+}
+
+.tab-description-div {
+    height: 260px;
+    border-radius: 24px;
+    background-color: #f6f8fb;
+    border: solid 1px #e1e7ef;
+    margin: 0 auto;
+    margin-top: 21px;
+}
+
+
+.tab-info-text {
+    margin: 0 auto;
+    flex: 2;
+    /*height: 100%;*/
+    display: block;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+.tab-info-text-title {
+    font-size: 22px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #2c8aff;
+}
+
+.tab-info-text-subtitle {
+    padding-top: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    display: block;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.tab-info-text-description {
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.tab-info-image {
+    margin: 0 auto;
+    flex: 3;
+    padding-right: 60px;
+}
+
+.different-item-div {
+    width: 33%;
+    float: left;
+    margin-top: 80px;
+    box-sizing: border-box;
+}
+.different-item-div img {
+    width: 57px;
+}
+.different-item-div h3 { /*safe*//
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.different-item-div p {
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    min-height: 100px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+
+.relationship-kind-item-div._active {
+    margin: 20px;
+    width: 265px;
+    height: 155px;
+    border-radius: 10px;
+    background-color: #f6f8fb;
+    border: solid 1px #e1e7ef;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.relationship-kind-item-div {
+    margin: 20px;
+    width: 265px;
+    cursor: pointer;
+    height: 155px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: solid 1px #e1e7ef;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.relationship-kind-item-div._active span { /*personal*/
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #2c8aff;
+
+}
+.relationship-kind-item-div._active .description {
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+
+}
+.relationship-kind-item-div .description {
+    margin-top: 14px;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+.relationship-kind-item-div span {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+
+}
+
+.relationship-tabs._active {
+    display: flex;
+    margin-top: 80px;
+    border-bottom: solid 1px #e1e7ef;
+    cursor: pointer;
+}
+
+.relationship-tabs {
+    display: none;
+}
+
+.relation-tab-title {
+    flex: 1;
+    margin: auto;
+    padding-bottom: 20px;
+    display: flex;
+    border-bottom: solid 1px transparent;
+}
+
+
+.relation-tab-title span {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    margin: 0 auto;
+    text-align: center;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+
+.relation-image-div {
+    flex: 2;
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.relation-text-content {
+    width: 50%;
+    float: left;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100px;
+}
+
+.relation-text-content-title {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+
+.footer-div {
+    display: flex;
+    margin-left: 10%;
+    margin-bottom: 30px;
+}
+
+
+.relation-text-content-description {
+    font-size: 12px;
+    margin-top: 22px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+
+.monkeys-item {
+    margin-top: 60px;
+    border-radius: 10px;
+    float: left;
+    background-color: #f6f8fb;
+    border: solid 1px #e1e7ef;
+    display: flex;
+    width: 48%;
+    padding: 3%;
+    box-sizing: border-box;
+}
+
+
+.monkey-item-text-title {
+    font-size: 16px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.monkey-item-text-description {
+    margin-top: 15px;
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.footer-compass {
+    margin-bottom: 30px;
+    margin-top: 240px;
+    background-color: #f6f8fb;
+    padding: 35px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.compass-text {
+    margin-left: 72px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.compass-text-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+}
+.compass-text-description {
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.compass-text button {
+    margin:30px auto 0px;
+}
+
+.different-item-div._left *{
+    margin-right: 80px;
+}
+.different-item-div._center * {
+    margin-right: 80px;
+    margin-left: 80px;
+}
+.different-item-div._right * {
+    margin-left: 80px;
+}
+
+
+.menu-li {
+    float: left;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+    margin-right: 40px;
+}
+/*About screen*/
+.what-we-do {
+    display: flex;
+    margin-top: 182px;
+}
+
+.what-we-do-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 20px;
+}
+
+.what-we-do-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.what-we-do-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+}
+
+.what-we-do-subtitle {
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+    margin-bottom: 20px;
+}
+
+.what-we-do-description {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    margin-top: 18px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.inspiration-div {
+    border-radius: 24px;
+    background-color: #f6f8fb;
+    margin-top: 241px;
+    padding: 60px 75px;
+    border: solid 1px #e1e7ef;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.inspiration-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+}
+
+.inspirations-div {
+    display: flex;
+    margin-top: 80px;
+}
+
+
+.inspiration-text {
+    margin-top: 18px;
+    text-align: left;
+}
+
+.inspiration-text span{
+    font-size: 16px;
+    color: #0b284c;
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+}
+
+.message-author {
+    flex: 9;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+    margin: auto;
+}
+
+.title-subtitle-2-block-div {
+    margin-top: 240px;
+    display: flex;
+    flex-direction: column;
+}
+
+.title-span {
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+}
+
+.idea {
+    margin-top: 240px;
+}
+
+.subtitle-span {
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    margin-bottom: 40px;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.horizontal-gray-block {
+    border-radius: 24px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background-color: #f6f8fb;
+    border: solid 1px #e1e7ef;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.horizontal-block-description span{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.idea-span {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.content-with-padding {
+    display: flex;
+    flex-direction: column;
+    /*width: 100%;*/
+    padding: 50px;
+}
+.horizontal-block-description._left {
+    padding-right: 50px;
+}
+horizontal-block-description._right {
+    padding-left: 50px;
+}
+
+/*about screen end*/
+/*faq start*/
+
+.monkey-div {
+    margin-top: 32px;
+    position: relative;
+
+}
+
+
+
+.monkey-text-title {
+    font-size: 26px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+
+}
+
+.monkey-text-author {
+    margin-top: 20px;
+    font-size: 21px;
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+
+.questions-title-span {
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    color: #0b284c;
+}
+
+.email-title {
+    margin-top: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+.email-text-span {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.questions-list-div {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.question-item-div {
+    margin-top: 20px;
+    user-select: none;
+    margin-right: 57px;
+    cursor: pointer;
+    margin-left: 57px;
+    padding-bottom: 20px;
+    border-bottom: solid 1px #e1e7ef;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-div-faq {
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 57px;
+}
+.monkey-text-div {
+    margin-left: 57px;
+}
+.question-item-title {
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: #0b284c;
+}
+
+.question-item-answer._expanded {
+    font-size: 14px;
+    margin-top: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -0.1px;
+    color: rgba(11, 40, 76, 0.6);
+}
+
+
+.expand-icon {
+    color: #227afe;
+    float: right;
+    font-size: 25px;
+}
+
+/*.expand-icon._collapsed {*/
+    /*content: '+';*/
+/*}*/
+/*.expand-icon._expanded {*/
+    /*content: 'x';*/
+/*}*/
+
+/*added*/
+.monkey-item-image img {
+    width: 67px;
+}

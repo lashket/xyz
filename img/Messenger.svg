@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="70px" viewBox="0 0 71 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-1">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-2">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(1)" transform="translate(-511.000000, -1235.000000)">
+            <g id="Group-84" transform="translate(208.000000, 1034.000000)">
+                <g id="Group-116" transform="translate(0.000000, 181.000000)">
+                    <g id="UI/Icon/Messenger" transform="translate(303.000000, 20.000000)">
+                        <g id="Group-49" transform="translate(0.500000, 0.000000)">
+                            <g id="Group-33" fill="#F6F8FB" stroke="#E1E7EF" stroke-width="0.7">
+                                <rect id="Rectangle-4" x="0.35" y="0.35" width="69.3" height="69.3" rx="16.8"></rect>
+                            </g>
+                            <g id="Group-41" transform="translate(10.500000, 10.500000)">
+                                <circle id="Oval-7" fill="#FFFFFF" cx="24.5" cy="24.5" r="21.7"></circle>
+                                <g id="Group-37">
+                                    <circle id="Oval-7" stroke="url(#linearGradient-1)" stroke-width="3.5" cx="24.5" cy="24.5" r="23.1"></circle>
+                                    <circle id="Oval-9" stroke="url(#linearGradient-2)" stroke-width="0.5" cx="24.5" cy="24.5" r="21.25"></circle>
+                                    <path d="M26.6,36.8893051 C27.8467824,36.8893051 30.2625573,36.1949325 31.3720233,35.8715812 C32.342434,35.5887573 34.9451245,37.5793633 35.9431444,37.5793633 C36.1980071,37.5793633 34.2485022,34.0501289 34.9316285,33.2055422 C36.0149391,31.8661858 37.1,30.0971157 37.1,28.3757915 C37.1,23.6739079 32.3989899,19.862278 26.6,19.862278 C20.8010101,19.862278 16.1,23.6739079 16.1,28.3757915 C16.1,33.0776752 20.8010101,36.8893051 26.6,36.8893051 Z" id="Oval-11" fill="#E1E7EF"></path>
+                                    <path d="M24.5,33.9972973 C25.9130201,33.9972973 28.6508982,33.2103417 29.9082931,32.843877 C31.0080919,32.5233432 33.9578078,34.7793633 35.088897,34.7793633 C35.3777414,34.7793633 33.1683025,30.7795643 33.9425123,29.8223661 C35.1702643,28.3044288 36.4,26.2994827 36.4,24.3486486 C36.4,19.0198471 31.0721885,14.7 24.5,14.7 C17.9278115,14.7 12.6,19.0198471 12.6,24.3486486 C12.6,29.6774502 17.9278115,33.9972973 24.5,33.9972973 Z" id="Oval-11" stroke="#474D54" stroke-width="2.1"></path>
+                                    <circle id="Oval-9" stroke="url(#linearGradient-2)" stroke-width="0.5" cx="24.5" cy="24.5" r="24.75"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

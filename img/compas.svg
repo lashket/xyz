@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="125px" height="128px" viewBox="0 0 125 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>compas</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-1">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-2">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.0366185%" y1="-9.03556586%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.6961598%" y1="-10.8405526%" x2="48.3840587%" y2="113.112492%" id="linearGradient-4">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-5" points="64.2798087 65.1908189 64.2798087 10.2784156 72.5719061 65.1908189"></polygon>
+        <filter x="-21.5%" y="-3.2%" width="142.9%" height="106.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.159770869   0 0 0 0 0.166771694   0 0 0 0 0.175462372  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="55.8798087 119.931904 55.8798087 65.0195009 64.1719061 119.931904"></polygon>
+        <filter x="-21.5%" y="-3.2%" width="142.9%" height="106.5%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.159770869   0 0 0 0 0.166771694   0 0 0 0 0.175462372  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-9" points="64.1998744 65.2667966 9.78182095 65.2667966 58.87107 57.3113325 62.2276282 58.4712419"></polygon>
+        <filter x="-3.3%" y="-22.4%" width="106.5%" height="144.7%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.159770869   0 0 0 0 0.166771694   0 0 0 0 0.175462372  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <polygon id="path-11" points="118.519874 73.4439029 64.1018209 73.4439029 113.260436 65.4771972 118.519874 69.0343745"></polygon>
+        <filter x="-3.3%" y="-22.3%" width="106.5%" height="144.7%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="-1" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.159770869   0 0 0 0 0.166771694   0 0 0 0 0.175462372  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(1)" transform="translate(-314.000000, -4660.000000)">
+            <g id="Group-13" transform="translate(0.000000, 4600.000000)">
+                <g id="compas" transform="translate(314.000000, 59.000000)">
+                    <ellipse id="Oval-47" stroke="#E1E7EF" stroke-width="0.7" fill="#FFFFFF" cx="64.5949721" cy="65" rx="40.8519553" ry="41.1081081"></ellipse>
+                    <g id="Illustration">
+                        <g id="Group-15">
+                            <g id="Group-13">
+                                <text id="N" font-family="SFProText-Bold, SF Pro Text" font-size="6.72" font-weight="bold" letter-spacing="-0.0365384781" fill="#2C8AFF">
+                                    <tspan x="61.6" y="6.03100775">N</tspan>
+                                </text>
+                                <text id="S" font-family="SFProText-Bold, SF Pro Text" font-size="6.72" font-weight="bold" letter-spacing="-0.0365384781" fill="#2C8AFF">
+                                    <tspan x="61.6" y="128.493023">S</tspan>
+                                </text>
+                                <text id="E" font-family="SFProText-Bold, SF Pro Text" font-size="6.72" font-weight="bold" letter-spacing="-0.0365384781" fill="#2C8AFF">
+                                    <tspan x="120.96" y="67.544186">E</tspan>
+                                </text>
+                                <text id="W" font-family="SFProText-Bold, SF Pro Text" font-size="6.72" font-weight="bold" letter-spacing="-0.0365384781" fill="#2C8AFF">
+                                    <tspan x="0" y="67.544186">W</tspan>
+                                </text>
+                                <ellipse id="Oval-49" stroke="url(#linearGradient-1)" stroke-width="0.56" cx="64.68" cy="65.1813953" rx="31.08" ry="31.3209302"></ellipse>
+                                <ellipse id="Oval-49" stroke="url(#linearGradient-2)" stroke-width="1.68" cx="64.68" cy="65.1813953" rx="32.2" ry="32.4496124"></ellipse>
+                                <ellipse id="Oval-49" stroke="url(#linearGradient-1)" stroke-width="0.56" cx="64.68" cy="65.1813953" rx="33.32" ry="33.5782946"></ellipse>
+                                <ellipse id="Oval-48" stroke="url(#linearGradient-2)" stroke-width="2.8" cx="64.68" cy="65.1813953" rx="23.8" ry="23.9844961"></ellipse>
+                                <ellipse id="Oval-47" stroke="url(#linearGradient-3)" stroke-width="0.56" cx="64.68" cy="65.1813953" rx="24.92" ry="25.1131783"></ellipse>
+                                <ellipse id="Oval-47" stroke="url(#linearGradient-4)" stroke-width="0.56" cx="64.68" cy="65.1813953" rx="22.12" ry="22.2914729"></ellipse>
+                                <g id="Group-12" transform="translate(9.520000, 10.158140)"></g>
+                                <g id="Path-48">
+                                    <use fill="#4F565E" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use stroke="#474D54" stroke-width="0.56" xlink:href="#path-5"></use>
+                                </g>
+                                <polygon id="Path-48" stroke="#E1E7EF" stroke-width="0.56" fill="#F6F8FB" transform="translate(60.025857, 37.734617) scale(-1, 1) translate(-60.025857, -37.734617) " points="55.8798087 65.1908189 55.8798087 10.2784156 64.1719061 65.1908189"></polygon>
+                                <polygon id="Path-48" stroke="#E1E7EF" stroke-width="0.56" fill="#F6F8FB" transform="translate(68.425857, 92.475703) scale(1, -1) translate(-68.425857, -92.475703) " points="64.2798087 119.931904 64.2798087 65.0195009 72.5719061 119.931904"></polygon>
+                                <g id="Path-48" transform="translate(60.025857, 92.475703) scale(-1, -1) translate(-60.025857, -92.475703) ">
+                                    <use fill="#4F565E" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <use stroke="#474D54" stroke-width="0.56" xlink:href="#path-7"></use>
+                                </g>
+                                <g id="Path-49">
+                                    <use fill="#4F565E" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                    <use stroke="#474D54" stroke-width="0.56" xlink:href="#path-9"></use>
+                                </g>
+                                <polygon id="Path-49" stroke="#E1E7EF" stroke-width="0.56" fill="#F6F8FB" transform="translate(36.990848, 69.431412) scale(1, -1) translate(-36.990848, -69.431412) " points="64.1998744 73.3856264 9.78182095 73.3856264 58.5808402 65.4771972 63.1500195 68.976098"></polygon>
+                                <polygon id="Path-49" stroke="#E1E7EF" stroke-width="0.56" fill="#F6F8FB" transform="translate(91.310848, 61.181546) scale(-1, 1) translate(-91.310848, -61.181546) " points="118.519874 65.2667966 64.1018209 65.2667966 114.517959 57.0962953 118.519874 60.1255367"></polygon>
+                                <g id="Path-49" transform="translate(91.310848, 69.460550) scale(-1, -1) translate(-91.310848, -69.460550) ">
+                                    <use fill="#4F565E" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                    <use stroke="#474D54" stroke-width="0.56" xlink:href="#path-11"></use>
+                                </g>
+                                <polygon id="Path-50" fill="#474D54" points="64.0916767 65.2318728 64.0916767 59.2954293 42.1598245 43.0157346"></polygon>
+                                <polygon id="Path-50" fill="#E1E7EF" transform="translate(53.125751, 76.133106) scale(1, -1) translate(-53.125751, -76.133106) " points="64.0916767 87.2411751 64.0916767 81.3047316 42.1598245 65.0250369"></polygon>
+                                <polygon id="Path-50" fill="#E1E7EF" transform="translate(74.965751, 54.123804) scale(-1, 1) translate(-74.965751, -54.123804) " points="85.9316767 65.2318728 85.9316767 59.2954293 63.9998245 43.0157346"></polygon>
+                                <polygon id="Path-50" fill="#474D54" transform="translate(74.965751, 76.133106) scale(-1, -1) translate(-74.965751, -76.133106) " points="85.9316767 87.2411751 85.9316767 81.3047316 63.9998245 65.0250369"></polygon>
+                                <polygon id="Path-51" fill="#E1E7EF" points="64.0452587 65.07784 58.3202588 65.07784 42.3265978 43.210865"></polygon>
+                                <polygon id="Path-51" fill="#474D54" transform="translate(75.025928, 54.144353) scale(-1, 1) translate(-75.025928, -54.144353) " points="85.8852587 65.07784 80.1602588 65.07784 64.1665978 43.210865"></polygon>
+                                <polygon id="Path-51" fill="#E1E7EF" transform="translate(75.025928, 76.153655) scale(-1, -1) translate(-75.025928, -76.153655) " points="85.8852587 87.0871423 80.1602588 87.0871423 64.1665978 65.2201674"></polygon>
+                                <polygon id="Path-51" fill="#474D54" transform="translate(53.185928, 76.153655) scale(1, -1) translate(-53.185928, -76.153655) " points="64.0452587 87.0871423 58.3202588 87.0871423 42.3265978 65.2201674"></polygon>
+                                <path d="M95.9599183,33.2502705 L91.9634184,37.2710474 M36.8756605,92.6934411 L32.979509,96.6132601" id="Path-52" stroke="#474D54" stroke-width="0.56" stroke-linecap="round"></path>
+                                <path d="M33.017894,33.8743569 L36.8143695,37.6807725 M92.0088626,93.0197778 L96.1009206,97.1225499" id="Path-53" stroke="#474D54" stroke-width="0.56" stroke-linecap="round"></path>
+                            </g>
+                            <g id="Group-14" transform="translate(9.520000, 10.158140)"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

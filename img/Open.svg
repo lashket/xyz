@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Open</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-1">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-2">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M24.4367437,27.5362874 C26.7870534,26.5819243 28.0985915,24.3689559 28.0985915,21.6760563 C28.0985915,18.1289881 25.2231246,15.2535211 21.6760563,15.2535211 C18.1289881,15.2535211 15.2535211,18.1289881 15.2535211,21.6760563 C15.2535211,24.3732338 16.6062156,26.5172911 18.9624617,27.4688673" id="path-3"></path>
+        <path d="M28.0715446,41.4404318 C36.488117,38.6046915 42.5492958,30.6475018 42.5492958,21.2746479 C42.5492958,9.5249843 33.0243115,0 21.2746479,0 C9.5249843,0 0,9.5249843 0,21.2746479 C0,30.6849475 6.10970587,38.6682488 14.5787395,41.4741737" id="path-4"></path>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-5">
+            <stop stop-color="#0055BF" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="180.900428%" y1="-108.065918%" x2="45.8509555%" y2="136.344535%" id="linearGradient-6">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M14.5949167,41.4403195 L18.9270146,27.6871508" id="path-7"></path>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-8">
+            <stop stop-color="#004FBB" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-25.2036393%" y1="-48.0014037%" x2="45.8509555%" y2="136.344535%" id="linearGradient-9">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28.0537051,41.404176 L24.4133433,27.530255" id="path-10"></path>
+        <linearGradient x1="90.2352677%" y1="21.0465647%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#3091FE" offset="0%"></stop>
+            <stop stop-color="#3CA2FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="-4.31963398%" x2="110.436987%" y2="108.082354%" id="linearGradient-12">
+            <stop stop-color="#2E8DFE" offset="0%"></stop>
+            <stop stop-color="#3699FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.971427136%" y1="-4.14063649%" x2="100%" y2="93.6328086%" id="linearGradient-13">
+            <stop stop-color="#2C8AFE" offset="0%"></stop>
+            <stop stop-color="#2681FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="102.071843%" y1="11.1634486%" x2="-42.4656121%" y2="123.639851%" id="linearGradient-14">
+            <stop stop-color="#2B89FE" offset="0%"></stop>
+            <stop stop-color="#2884FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(6)" transform="translate(-596.000000, -2288.000000)">
+            <g id="Group-108" transform="translate(209.000000, 1826.000000)">
+                <g id="Group-61" transform="translate(0.000000, 181.000000)">
+                    <g id="Group-58" transform="translate(0.000000, 281.000000)">
+                        <g id="Group-104" transform="translate(387.000000, 0.000000)">
+                            <g id="UI/Icon/Open">
+                                <g id="Open">
+                                    <g id="Group-19" fill="#F6F8FB">
+                                        <g id="Group-25">
+                                            <circle id="Oval" cx="28.5" cy="28.5" r="28.5"></circle>
+                                        </g>
+                                    </g>
+                                    <g id="Group-77" transform="translate(7.225352, 8.028169)">
+                                        <g id="Oval-27" stroke-linecap="round">
+                                            <use stroke="url(#linearGradient-1)" stroke-width="3.2" xlink:href="#path-3"></use>
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1.6" xlink:href="#path-3"></use>
+                                        </g>
+                                        <g id="Oval-28" stroke-linecap="round">
+                                            <use stroke="url(#linearGradient-1)" stroke-width="3.2" xlink:href="#path-4"></use>
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1.6" xlink:href="#path-4"></use>
+                                        </g>
+                                        <g id="Path-25" stroke-linecap="round">
+                                            <use stroke="url(#linearGradient-5)" stroke-width="3.2" xlink:href="#path-7"></use>
+                                            <use stroke="url(#linearGradient-6)" stroke-width="1.6" xlink:href="#path-7"></use>
+                                        </g>
+                                        <g id="Path-26" stroke-linecap="round">
+                                            <use stroke="url(#linearGradient-8)" stroke-width="3.2" xlink:href="#path-10"></use>
+                                            <use stroke="url(#linearGradient-9)" stroke-width="1.6" xlink:href="#path-10"></use>
+                                        </g>
+                                        <path d="M26.97784,25.5200419 C26.5504307,26.0388191 26.2149057,26.4076017 25.9712651,26.6263897 C25.7276244,26.8451777 25.1885236,27.158602 24.3539625,27.5666625" id="Path-3" stroke="url(#linearGradient-11)" stroke-width="1.6"></path>
+                                    </g>
+                                    <path d="M24.31536,34.306972 C24.7130317,34.6402645 25.0103277,34.8824101 25.2072479,35.0334088 C25.4041682,35.1844074 25.7265614,35.4164169 26.1744277,35.7294371" id="Path-44" stroke="url(#linearGradient-12)" stroke-width="1.6"></path>
+                                    <path d="M19.5425818,48.6050018 C20.0620714,48.8481778 20.4632468,49.0208434 20.7461081,49.1229988 C21.0289694,49.2251542 21.3999613,49.3433864 21.8590838,49.4776953" id="Path-45" stroke="url(#linearGradient-13)" stroke-width="1.6"></path>
+                                    <path d="M37.3594966,48.6539737 C36.9583913,48.8366994 36.657155,48.9666451 36.4557875,49.0438107 C36.2544201,49.1209763 35.8720946,49.2472322 35.3088112,49.4225783" id="Path-46" stroke="url(#linearGradient-14)" stroke-width="1.6"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="67px" viewBox="0 0 80 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Monkey/Deaf</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="106.330564%" y1="0%" x2="29.6381811%" y2="142.66861%" id="linearGradient-1">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#57BEFF" offset="0%"></stop>
+            <stop stop-color="#2C8AFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-95.6127553%" y1="-109.107646%" x2="115.198197%" y2="190.721813%" id="linearGradient-3">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="57.3277649%" y1="-42.4245604%" x2="58.1629844%" y2="290.343861%" id="linearGradient-4">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(1)" transform="translate(-765.000000, -4089.000000)">
+            <g id="Group-66" transform="translate(207.000000, 3864.000000)">
+                <g id="Group-79" transform="translate(523.000000, 181.000000)">
+                    <g id="Monkey/Deaf" transform="translate(35.000000, 46.000000)">
+                        <path d="M36.5215061,6.66284795 C37.7053797,5.86530114 38.2973165,4.85988383 38.2973165,3.64659602 C38.2973165,1.8266643 38.5137297,5.30687795 40.799048,5.52245795 C43.0843664,5.73803795 46.7727179,4.0537178 46.3484037,4.50230746 C44.8817665,6.05285242 44.4584007,7.16932367 45.0783063,7.85172122 L36.5215061,6.66284795 Z" id="Path-20" fill="url(#linearGradient-1)"></path>
+                        <ellipse id="Oval-19" fill="#474D54" cx="40.4469274" cy="45.3645833" rx="19.4413408" ry="19.6354167"></ellipse>
+                        <ellipse id="Oval-18" fill="#474D54" cx="40.2234637" cy="33.4027778" rx="26.8156425" ry="27.0833333"></ellipse>
+                        <ellipse id="Oval-17" fill="#FFFFFF" cx="40.2234637" cy="46.4930556" rx="16.9832402" ry="17.1527778"></ellipse>
+                        <path d="M45.4247779,57.3263889 C43.503511,58.6684928 41.7227043,59.3395447 40.0823579,59.3395447 C38.4420115,59.3395447 36.8503131,58.6684928 35.3072626,57.3263889" id="Path-16" stroke="#474D54" stroke-width="1.344" stroke-linecap="round"></path>
+                        <ellipse id="Oval-16" fill="#FFFFFF" cx="30.6145251" cy="27.3090278" rx="13.1843575" ry="13.3159722"></ellipse>
+                        <ellipse id="Oval-16" fill="#FFFFFF" cx="50.2793296" cy="27.3090278" rx="13.1843575" ry="13.3159722"></ellipse>
+                        <ellipse id="Oval-22" fill="url(#linearGradient-2)" cx="50.0558659" cy="27.0833333" rx="3.12849162" ry="3.15972222"></ellipse>
+                        <path d="M44.5463387,43.3091007 L41.3918907,45.7746355" id="Path-15" stroke="#474D54" stroke-width="1.344" stroke-linecap="round"></path>
+                        <path d="M39.1832102,43.3091007 L36.0287622,45.7746355" id="Path-15" stroke="#474D54" stroke-width="1.344" stroke-linecap="round" transform="translate(37.605986, 44.541868) scale(-1, 1) translate(-37.605986, -44.541868) "></path>
+                        <ellipse id="Oval-22" fill="url(#linearGradient-2)" cx="30.3910615" cy="27.0833333" rx="3.12849162" ry="3.15972222"></ellipse>
+                        <ellipse id="Oval-23" stroke="#474D54" stroke-width="0.896" cx="30.3910615" cy="27.0833333" rx="4.91620112" ry="4.96527778"></ellipse>
+                        <ellipse id="Oval-23" stroke="#474D54" stroke-width="0.896" cx="50.0558659" cy="27.0833333" rx="4.91620112" ry="4.96527778"></ellipse>
+                        <g id="Group-56">
+                            <path d="M5.16879256,23.0208333 L8.04469274,23.0208333 L8.04469274,41.0763889 L5.16879256,41.0763889 C3.37149078,41.0763889 2.71974573,40.8892525 2.06267906,40.5378494 C1.40561239,40.1864463 0.88994263,39.6707765 0.538539531,39.0137098 C0.187136432,38.3566432 3.74214066e-16,37.7048981 -6.44054248e-16,35.9075963 L1.39216937e-16,28.1896259 C-8.08890498e-17,26.3923241 0.187136432,25.7405791 0.538539531,25.0835124 C0.88994263,24.4264457 1.40561239,23.910776 2.06267906,23.5593729 C2.71974573,23.2079698 3.37149078,23.0208333 5.16879256,23.0208333 Z" id="Rectangle-11" fill="url(#linearGradient-3)"></path>
+                            <path d="M71.9553073,23.0208333 L74.8312074,23.0208333 C76.6285092,23.0208333 77.2802543,23.2079698 77.9373209,23.5593729 C78.5943876,23.910776 79.1100574,24.4264457 79.4614605,25.0835124 C79.8128636,25.7405791 80,26.3923241 80,28.1896259 L80,35.9075963 C80,37.7048981 79.8128636,38.3566432 79.4614605,39.0137098 C79.1100574,39.6707765 78.5943876,40.1864463 77.9373209,40.5378494 C77.2802543,40.8892525 76.6285092,41.0763889 74.8312074,41.0763889 L71.9553073,41.0763889 L71.9553073,23.0208333 Z" id="Rectangle-11" fill="url(#linearGradient-3)"></path>
+                            <path d="M11.0811255,25.0520833 L11.0811255,39.4965278" id="Path-21" stroke="#2C8AFF" stroke-width="3.136" stroke-linecap="round"></path>
+                            <path d="M69.1816842,25.0520833 L69.1816842,39.4965278" id="Path-21" stroke="#2C8AFF" stroke-width="3.136" stroke-linecap="round"></path>
+                            <path d="M6.123641,23.7655807 C9.97890206,8.1766334 21.3217012,0.382159746 40.1520386,0.382159746 C58.9823759,0.382159746 70.1906493,7.90124984 73.7768587,22.93943" id="Path-22" stroke="url(#linearGradient-4)" stroke-width="3.584" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

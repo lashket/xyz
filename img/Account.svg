@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Account</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-1">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-2">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(1)" transform="translate(-338.000000, -1235.000000)">
+            <g id="Group-84" transform="translate(208.000000, 1034.000000)">
+                <g id="Group-116" transform="translate(0.000000, 181.000000)">
+                    <g id="UI/Icon/Account" transform="translate(130.000000, 20.000000)">
+                        <g id="Group-40">
+                            <g id="Group-32" fill="#F6F8FB" stroke="#E1E7EF" stroke-width="0.7">
+                                <rect id="Rectangle-4" x="0.35" y="0.35" width="69.3" height="69.3" rx="16.8"></rect>
+                            </g>
+                            <g id="Group-39" transform="translate(10.500000, 10.500000)">
+                                <circle id="Oval-7" fill="#FFFFFF" cx="24.5" cy="24.5" r="21.7"></circle>
+                                <g id="Group-38">
+                                    <circle id="Oval-10" fill="#E1E7EF" cx="28.35" cy="25.55" r="6.65"></circle>
+                                    <path d="M41.0623173,40.5078169 C39.4058535,38.9496932 35.1540996,38.4605967 28.3070558,39.0405276 C21.460012,39.6204584 16.6865348,41.0655369 13.9866244,43.3757632 C17.8689335,46.4272348 21.2359329,48.1419062 24.0876225,48.5197772 C28.3651569,49.0865838 31.7259024,47.5875887 34.8048545,46.1343407 C36.8574892,45.1655087 38.9433101,43.2900007 41.0623173,40.5078169 Z" id="Path-12" fill="#E1E7EF"></path>
+                                    <path d="M7.40189964,40.611147 C12.4374899,37.3547934 18.1524571,35.7266166 24.5468013,35.7266166 C30.9411456,35.7266166 36.6667066,37.3547934 41.7234845,40.611147" id="Path-11" stroke="#474D54" stroke-width="2.1"></path>
+                                    <circle id="Oval-7" stroke="url(#linearGradient-1)" stroke-width="3.5" cx="24.5" cy="24.5" r="23.1"></circle>
+                                    <circle id="Oval-9" stroke="url(#linearGradient-2)" stroke-width="0.5" cx="24.5" cy="24.5" r="21.25"></circle>
+                                    <circle id="Oval-9" stroke="url(#linearGradient-2)" stroke-width="0.5" cx="24.5" cy="24.5" r="24.75"></circle>
+                                    <circle id="Oval-8" stroke="#474D54" stroke-width="2.1" cx="24.85" cy="24.15" r="6.65"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

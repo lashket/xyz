@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Controlled</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-1">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-2">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.682528713,20.6588876 C5.20162235,28.0002955 10.9126151,31.6709994 17.815507,31.6709994 C24.7183989,31.6709994 30.5545445,28.3479413 35.3239437,21.701825 L25.6624861,9.64677585" id="path-3"></path>
+        <path d="M11.1133758,22.2850044 L1.6056338,10.8895671 C5.77609211,3.80877914 11.4115888,0.268385182 18.5121238,0.268385182 C25.6126589,0.268385182 31.5886366,3.93782171 36.440057,11.2766948" id="path-4"></path>
+        <circle id="path-5" cx="18.4647887" cy="16.056338" r="9.63380282"></circle>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(6)" transform="translate(-990.000000, -2288.000000)">
+            <g id="Group-108" transform="translate(209.000000, 1826.000000)">
+                <g id="Group-61" transform="translate(0.000000, 181.000000)">
+                    <g id="Group-58" transform="translate(0.000000, 281.000000)">
+                        <g id="Group-105" transform="translate(781.000000, 0.000000)">
+                            <g id="UI/Icon/Controlled">
+                                <g id="Controlled">
+                                    <circle id="Oval" fill="#F6F8FB" cx="28.5" cy="28.5" r="28.5"></circle>
+                                    <circle id="Oval-25" fill="#474D54" cx="28.9014085" cy="28.0985915" r="3.21126761"></circle>
+                                    <g id="Group-76" transform="translate(10.436620, 12.042254)">
+                                        <g id="Path-23">
+                                            <use stroke="url(#linearGradient-1)" stroke-width="3.2" xlink:href="#path-3"></use>
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1.6" xlink:href="#path-3"></use>
+                                        </g>
+                                        <g id="Path-24">
+                                            <use stroke="url(#linearGradient-1)" stroke-width="3.2" xlink:href="#path-4"></use>
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1.6" xlink:href="#path-4"></use>
+                                        </g>
+                                        <g id="Oval-26">
+                                            <use stroke="url(#linearGradient-1)" stroke-width="3.2" xlink:href="#path-5"></use>
+                                            <use stroke="url(#linearGradient-2)" stroke-width="1.6" xlink:href="#path-5"></use>
+                                        </g>
+                                        <path d="M35.4130722,11.4738338 L37.0557413,10.3893764" id="Path-28" stroke="#0064C9" stroke-width="0.8"></path>
+                                    </g>
+                                    <path d="M12.3616249,32.4061353 L10.3777786,33.624609" id="Path-29" stroke="#0065C9" stroke-width="0.8"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

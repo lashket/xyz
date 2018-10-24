@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Powerful</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-1">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-2">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28.0192972,0.397610946 L28.9958643,0.397610946 C32.8922651,0.397610946 40.12925,3.43728219 40.12925,12.443662 C40.12925,21.4500417 32.8922651,23.6680156 28.9958643,23.6680156 L27.7969133,23.6680156" id="path-3"></path>
+        <polyline id="path-4" points="28.0985915 1.6056338 18.1937236 1.6056338 22.7489425 3.69716446 7.12959277 7.02790086 17.0820799 8.51959878 0 12.0422535 17.0820799 15.3013021 7.12959277 16.5257393 22.7489425 20.0624383 18.1937236 22.1999805 28.0985915 22.4788732"></polyline>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(6)" transform="translate(-990.000000, -2007.000000)">
+            <g id="Group-108" transform="translate(209.000000, 1826.000000)">
+                <g id="Group-61" transform="translate(0.000000, 181.000000)">
+                    <g id="Group-27" transform="translate(781.000000, 0.000000)">
+                        <g id="UI/Icon/Powerful">
+                            <g id="Fast">
+                                <g id="Group-26" fill="#F6F8FB">
+                                    <circle id="Oval" cx="28.5" cy="28.5" r="28.5"></circle>
+                                </g>
+                                <g id="Group-78" transform="translate(8.830986, 16.859155)">
+                                    <g id="Rectangle-14">
+                                        <path stroke="url(#linearGradient-1)" stroke-width="3.2" d="M29.6038864,2.01784934 L29.412342,22.061188 C34.4292025,21.8958678 38.52925,18.727301 38.52925,12.443662 C38.52925,6.12634608 34.2234097,2.32549729 29.6038864,2.01784934 Z" stroke-linejoin="square"></path>
+                                        <use stroke="url(#linearGradient-2)" stroke-width="0.8" xlink:href="#path-3"></use>
+                                    </g>
+                                    <path d="M31.9407083,19.8333418 C31.2836452,20.0771846 30.8122664,20.2467218 30.5265718,20.3419533 C30.2408773,20.4371848 29.3364061,20.5222065 27.8131584,20.5970183" id="Line-13" stroke="#F6F8FB" stroke-width="0.8" stroke-linecap="square"></path>
+                                    <path d="M35.4456543,7.17751891 C33.9054294,5.68565811 32.6845177,4.72863043 31.7829192,4.30643587 C30.8813207,3.8842413 29.3856059,3.51918521 27.2957746,3.21126761" id="Path-38" stroke="#F6F8FB" stroke-width="0.8"></path>
+                                    <path d="M27.7782377,21.2821049 C27.8524443,21.2821049 29.3834004,21.2512761 29.5517186,21.2038263 C33.5580831,20.074412 37.7737938,17.765369 37.3592215,12.0378699 C36.9396215,6.24090998 33.365929,3.44712373 29.3281959,2.84058626 C29.066473,2.80127094 27.8428004,2.8090014 27.7187736,2.8090014" id="Oval-32" stroke="url(#linearGradient-2)" stroke-width="0.8"></path>
+                                    <g id="Path-27">
+                                        <use stroke="url(#linearGradient-2)" stroke-width="3.2" xlink:href="#path-4"></use>
+                                        <use stroke="url(#linearGradient-1)" stroke-width="1.6" xlink:href="#path-4"></use>
+                                    </g>
+                                </g>
+                                <g id="Group-78" transform="translate(36.126761, 16.859155)"></g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

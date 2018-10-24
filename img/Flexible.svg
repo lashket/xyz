@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>UI/Icon/Flexible</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-16.7217076%" x2="53.0076408%" y2="112.348023%" id="linearGradient-1">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="45.8509555%" y2="136.344535%" id="linearGradient-2">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="-9.64684865%" y2="176.804841%" id="linearGradient-3">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="53.0076408%" y1="-47.4542367%" x2="53.0076408%" y2="140.885169%" id="linearGradient-4">
+            <stop stop-color="#007FDA" offset="0%"></stop>
+            <stop stop-color="#004AB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.8509555%" y1="-2.86756152%" x2="-29.8240985%" y2="318.760224%" id="linearGradient-5">
+            <stop stop-color="#46B2FF" offset="0%"></stop>
+            <stop stop-color="#227AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="1440" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1440-(6)" transform="translate(-596.000000, -2007.000000)">
+            <g id="Group-108" transform="translate(209.000000, 1826.000000)">
+                <g id="Group-61" transform="translate(0.000000, 181.000000)">
+                    <g id="Group-60" transform="translate(387.000000, 0.000000)">
+                        <g id="UI/Icon/Flexible">
+                            <g>
+                                <g id="Group-23" fill="#F6F8FB">
+                                    <circle id="Oval" cx="28.5" cy="28.5" r="28.5"></circle>
+                                </g>
+                                <g id="Group-15" transform="translate(30.507042, 8.830986)">
+                                    <rect id="Rectangle-27" stroke="url(#linearGradient-1)" stroke-width="0.8" x="5.21690141" y="0.4" width="3.21408451" height="39.3408451" rx="1.60704225"></rect>
+                                    <path d="M6.82394366,2.00704225 L6.82394366,38.1338028" id="Line-8" stroke="url(#linearGradient-2)" stroke-width="2.4" stroke-linecap="round"></path>
+                                    <g id="Group-14" transform="translate(0.000000, 19.267606)">
+                                        <circle id="Oval-3" stroke="url(#linearGradient-3)" stroke-width="2.4" fill="#FFFFFF" cx="6.82394366" cy="6.82394366" r="5.21830986"></circle>
+                                        <circle id="Oval-31" stroke="url(#linearGradient-1)" stroke-width="0.8" cx="6.82394366" cy="6.82394366" r="6.82394366"></circle>
+                                        <circle id="Oval-31" stroke="url(#linearGradient-4)" stroke-width="0.8" cx="6.82394366" cy="6.82394366" r="3.61267606"></circle>
+                                    </g>
+                                </g>
+                                <g id="Group-18" transform="translate(12.845070, 8.830986)">
+                                    <rect id="Rectangle-27" stroke="url(#linearGradient-1)" stroke-width="0.8" x="5.21690141" y="0.4" width="3.21408451" height="39.3408451" rx="1.60704225"></rect>
+                                    <path d="M6.82394366,2.00704225 L6.82394366,38.1338028" id="Line-8" stroke="url(#linearGradient-2)" stroke-width="2.4" stroke-linecap="round"></path>
+                                    <g id="Group-13" transform="translate(0.000000, 7.225352)">
+                                        <circle id="Oval-3" stroke="url(#linearGradient-5)" stroke-width="2.4" fill="#FFFFFF" cx="6.82394366" cy="6.82394366" r="5.21830986"></circle>
+                                        <circle id="Oval-31" stroke="url(#linearGradient-1)" stroke-width="0.8" cx="6.82394366" cy="6.82394366" r="6.82394366"></circle>
+                                        <circle id="Oval-31" stroke="url(#linearGradient-4)" stroke-width="0.8" cx="6.82394366" cy="6.82394366" r="3.61267606"></circle>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

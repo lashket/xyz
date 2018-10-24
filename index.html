@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="styles/blocks.css">
+    <link rel="stylesheet" media="screen and (min-width:1440px)" type="text/css" href="styles/style.css">
+    <link rel="stylesheet" media="screen and (max-width:1440px)" type="text/css" href="styles/1440/style.css">
+    <link rel="stylesheet" media="screen and (max-width:1024px)" type="text/css" href="styles/1024/style.css">
+    <link rel="stylesheet" media="screen and (max-width:768px)" type="text/css" href="styles/768/style.css">
+    <title>X</title>
+</head>
+<body>
+<div class="header-div">
+    <div class="logo-div">
+        <a href="index.html"><img src="img/main/1920/logo.png" class="img-100"></a>
+    </div>
+
+    <div class="menu-div">
+        <ul>
+            <a href="faq.html"><li>FAQ</li></a>
+            <a href="about.html"><li>About</li></a>
+        </ul>
+    </div>
+    <div class="button-div">
+        <button>
+            <span>GET STARTED</span>
+        </button>
+    </div>
+</div>
+<div class="content-wrapper">
+    <div class="intro-div">
+        <div class="intro-div-text">
+            <h2>
+                The safest place for talking, paying and storing without middle-men
+            </h2>
+            <p>
+                It is more effective, more reliable and faster to exchange information, goods and services together with
+                us. We offer you fair partnership without fees, tracking and central regulation
+            </p>
+            <div class="email-input-div">
+                <input type="text" placeholder="Email" class="email-enput">
+                <button class="gradient-button">GET INVITED</button>
+            </div>
+        </div>
+        <div class="intro-div-image">
+            <img src="img/main/1920/phone.png">
+        </div>
+
+    </div>
+    <div class="magig-items-title-div">
+        <h3>Five magic elements in one <span class="blue-bold-span">simple X app</span></h3>
+        <p>
+            We provide the same tools that you are using every day,<br>but is smarter, well-thought-out and only under
+            your control
+        </p>
+    </div>
+    <div class="magic-tabs">
+        <div class="magic-tab _active" onclick="tabClick(this, 'account-magic-tab')">
+            <div class="magic-image-container">
+                <img src="img/Account.svg">
+            </div>
+        </div>
+        <div class="magic-tab" onclick="tabClick(this, 'messenger-magic-tab')">
+            <div class="magic-image-container">
+                <img src="img/Messenger.svg">
+            </div>
+        </div>
+        <div class="magic-tab" onclick="tabClick(this, 'box-magic-tab')">
+            <div class="magic-image-container">
+                <img src="img/Box.svg">
+            </div>
+        </div>
+        <div class="magic-tab" onclick="tabClick(this, 'wallet-magic-tab')">
+            <div class="magic-image-container">
+                <img src="img/Wallet.svg">
+            </div>
+        </div>
+        <div class="magic-tab" onclick="tabClick(this, 'storage-magic-tab')">
+            <div class="magic-image-container">
+                <img src="img/Storage.svg">
+            </div>
+        </div>
+    </div>
+    <div class="tab-description-div">
+        <div class="tab-info-div _active" id="account-magic-tab">
+            <div class="tab-info-text">
+                <span class="tab-info-text-title">Account</span><br>
+                <span class="tab-info-text-subtitle">Digital profile nobody can clone</span><br>
+                <span class="tab-info-text-description">Sell or buy online on your terms and conditions, pay and be paid without middle-mans and fraud</span>
+            </div>
+            <div class="tab-info-image">
+                <img src="img/main/1920/5_magic_elements/account_cards.png">
+            </div>
+        </div>
+        <div class="tab-info-div" id="messenger-magic-tab">
+            <div class="tab-info-text">
+                <span class="tab-info-text-title">Messenger</span><br>
+                <span class="tab-info-text-subtitle">Like face-to-face talk</span><br>
+                <span class="tab-info-text-description">Talks like in a private room. Create channels, send and request information, sign documents and transactions, etc.</span>
+            </div>
+            <div class="tab-info-image">
+                <img src="img/main/1920/5_magic_elements/messenger_cards.png">
+            </div>
+        </div>
+        <div class="tab-info-div" id="box-magic-tab">
+            <div class="tab-info-text">
+                <span class="tab-info-text-title">Box</span><br>
+                <span class="tab-info-text-subtitle">New era of management</span><br>
+                <span class="tab-info-text-description">Forgot about habitual e-mails or any CRM. Manage your inventory, contracts, tasks, orders in one safe place.</span>
+            </div>
+            <div class="tab-info-image">
+                <img src="img/main/1920/5_magic_elements/box_cards.png">
+            </div>
+        </div>
+        <div class="tab-info-div" id="wallet-magic-tab">
+            <div class="tab-info-text">
+                <span class="tab-info-text-title">Wallet</span><br>
+                <span class="tab-info-text-subtitle">Your personal digital bank</span><br>
+                <span class="tab-info-text-description">Open accounts, hold and receive money, lend money and make free instant transfers without any fees.</span>
+            </div>
+            <div class="tab-info-image">
+                <img src="img/main/1920/5_magic_elements/wallet_cards.png">
+            </div>
+        </div>
+        <div class="tab-info-div" id="storage-magic-tab">
+            <div class="tab-info-text">
+                <span class="tab-info-text-title">Storage</span><br>
+                <span class="tab-info-text-subtitle">Safe as it should be</span><br>
+                <span class="tab-info-text-description">Store files, links, passwords. Neither we nor other users can have access to your files unless you allow it.</span>
+            </div>
+            <div class="tab-info-image">
+                <img src="img/main/1920/5_magic_elements/storage_cards.png">
+            </div>
+        </div>
+    </div>
+    <div class="magig-items-title-div">
+        <h3>What makes us <span class="blue-bold-span">different</span></h3>
+        <p>
+            Xmesh is developed for people who value own and<br>other peoples freedom and respect private property
+        </p>
+    </div>
+    <div class="different-items">
+        <div class="different-item-div _left">
+            <img src="img/main/1920/different/safe.png">
+            <h3>Safe</h3>
+            <p>
+                Protect your content and yourself from unfair fulfilment of obligations of one of the parties with the
+                help of our smart contracts constructor
+            </p>
+        </div>
+        <div class="different-item-div _center">
+            <img src="img/main/1920/different/flexible.png">
+            <h3>Flexible</h3>
+            <p>
+                Build for personal use. Suit for any business needs. Perfect for all industries We have made it
+                intuitive and and simple in use
+            </p>
+        </div>
+        <div class="different-item-div _right">
+            <img src="img/main/1920/different/powerful.png">
+            <h3>Powerful</h3>
+            <p>
+                Our technology provides fast and unlimited messages, data or funds transfers inside
+            </p>
+        </div>
+        <div class="different-item-div _left">
+            <img src="img/main/1920/different/Secure.png">
+            <h3>Secure</h3>
+            <p>
+                Your data is end to end encrypted. And only you have the key. It is protected from hacker attacks and
+                can not be used by others without your consent.
+            </p>
+        </div>
+        <div class="different-item-div _center">
+            <img src="img/main/1920/different/Open.png">
+            <h3>Open</h3>
+            <p>
+                We build our solution on open source code that free for everyone, so you can use it the way you like
+            </p>
+        </div>
+        <div class="different-item-div _right">
+            <img src="img/main/1920/different/Controlled.png">
+            <h3>Controlled</h3>
+            <p>
+                The internal settings allow you to identify people or businesses, so you know exactly who you are
+                dealing, sharing something or chatting with
+            </p>
+        </div>
+        <div class="different-item-div _left">
+            <img src="img/main/1920/different/decentralized.png">
+            <h3>Decentralised</h3>
+            <p>
+                Communication or payments inside the network are made without the participation control and data
+                collection by a third party
+            </p>
+        </div>
+        <div class="different-item-div _center">
+            <img src="img/main/1920/different/Cloud-based.png">
+            <h3>Cloud-based</h3>
+            <p>
+                All your data is in a protected cloud to which you have constant access from any device
+            </p>
+        </div>
+        <div class="different-item-div _right">
+            <img src="img/main/1920/different/Distributed.png">
+            <h3>Distributed</h3>
+            <p>
+                Our servers are located worldwide that ensures high speed transmission and security of saving your data
+            </p>
+        </div>
+
+    </div>
+    <div class="magig-items-title-div">
+        <h3>Designed for <span class="blue-bold-span">any kind of relationships</span> in the net</h3>
+    </div>
+    <div class="relationship-kinds-div">
+        <div class="relationship-kind-item-div _active" onclick="relationClick(this, 'personal-tabs')">
+            <span>Personal</span>
+            <span class="description">Stay private<br>as much as you want</span>
+        </div>
+        <div class="relationship-kind-item-div" onclick="relationClick(this, 'business-tabs')">
+            <span>Business</span>
+            <span class="description">You do business and<br>not business is done on you</span>
+        </div>
+    </div>
+    <div class="relationship-tabs" id="business-tabs">
+        <div class="relation-tab-title _active" onclick="relationSubTabClick(this, 'business-first')">
+            <span>You set the rules for your<br>business</span>
+        </div>
+        <div class="relation-tab-title" onclick="relationSubTabClick(this,'business-second')">
+            <span>Delegate each other in<br>one workspace</span>
+        </div>
+        <div class="relation-tab-title" onclick="relationSubTabClick(this, 'business-third')">
+            <span>Billing is necessary,<br>banks are not</span>
+        </div>
+    </div>
+    <div class="relationship-tabs _active" id="personal-tabs">
+        <div class="relation-tab-title _active" onclick="relationSubTabClick(this, 'personal-first')">
+            <span>Keep things you care about<br>in one safe place</span>
+        </div>
+        <div class="relation-tab-title" onclick="relationSubTabClick(this, 'personal-second')">
+            <span>Share yours with close people<br>without prying eyes</span>
+        </div>
+        <div class="relation-tab-title" onclick="relationSubTabClick(this, 'personal-third')">
+            <span>Chat and pay secure without<br>unnecessary data sharing</span>
+        </div>
+    </div>
+    <div class="relation-tab-content _active" id="personal-first">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">Upload it! Forget about it!</span>
+                <span class="relation-text-content-description">Add your thoughts, files, passwords<br>without worrying about their security</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Feel the pulse</span>
+                <span class="relation-text-content-description">Assign yourself to the tasks or<br>get tasks from others so you will<br>not forget about them</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Better than your bank</span>
+                <span class="relation-text-content-description">Deposit funds to your wallet<br>according to FX rates and keep them<br>safe without any service charges</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Personal one stop shop</span>
+                <span class="relation-text-content-description">Keep around links to individual offers,<br>favourite sellers and services, tickets<br>and subscriptions</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/Profile-relation.png">
+        </div>
+    </div>
+    <div class="relation-tab-content" id="personal-second">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">Family access</span>
+                <span class="relation-text-content-description">Connect family members to files,<br>folders, tasks, orders or whatever<br>you want</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Parental control</span>
+                <span class="relation-text-content-description">Add your children to educational<br>and entertaining groups according to<br>their interests</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Two’s company, three’s crowd</span>
+                <span class="relation-text-content-description">Neither we nor other providers inside<br>can track and analyse what you do or share<br>and who you chat with</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Your funds without middle-men</span>
+                <span class="relation-text-content-description">Create joint wallets and share access without<br>any banking docs, signatures, etc. Only you<br>own and control them</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/Profile-relation.png">
+        </div>
+    </div>
+    <div class="relation-tab-content" id="personal-third">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">You are protected</span>
+                <span class="relation-text-content-description">You are protected<br>contracts and both parties are secured<br>from potential fraud</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">No passport when buying a loaf of bread</span>
+                <span class="relation-text-content-description">You give access only to those documents<br>that are really needed for order confirmation</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Like face-to-face payments</span>
+                <span class="relation-text-content-description">Like face-to-face payments<br>double conversions or any commissions<br>when you deal with somebody</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Advance identification</span>
+                <span class="relation-text-content-description">Check users documents before adding them<br>to contacts or sharing something</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/Personal3.png">
+        </div>
+    </div>
+    <div class="relation-tab-content" id="business-first">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">Let’s talk business</span>
+                <span class="relation-text-content-description">Create offers, add thematic channels<br>for streaming content, displaying hot offers,<br>blogging, life-support, etc.</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Less unexpected surprices</span>
+                <span class="relation-text-content-description">Set up cancellation policy to warn yourself<br>and your partners from no-show and<br>late cancellation</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Stay the owner</span>
+                <span class="relation-text-content-description">Be protected from from copying, unfair<br>sharing and unwanted reselling of<br>your offers by other people</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Know your customer</span>
+                <span class="relation-text-content-description">Request the information you need from<br>your customers to identify them in advance</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/business.png">
+        </div>
+    </div>
+    <div class="relation-tab-content" id="business-second">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">Real time availability</span>
+                <span class="relation-text-content-description">Displaying of only relevant information<br>with accurate availability, limits or other<br>conditions of your inventory and offers</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Shared responsibility</span>
+                <span class="relation-text-content-description">Customise the access among the<br>participants and let everyone be responsible<br>for their part</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Chat smartly</span>
+                <span class="relation-text-content-description">Support your clients alongside your<br>partners in one personal chat</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Nothing is missed</span>
+                <span class="relation-text-content-description">All changes made by other participants are<br>displayed in real time so you will always<br>see who made them</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/business2.png">
+        </div>
+    </div>
+    <div class="relation-tab-content" id="business-third">
+        <div class="relation-text-div">
+            <div class="relation-text-content">
+                <span class="relation-text-content-title">Go global</span>
+                <span class="relation-text-content-description">Fill your wallets according to FX rates<br>and make international payments<br>with ease</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">No intermediaries</span>
+                <span class="relation-text-content-description">Like face-to-face payments and transfers<br>without any commissions and fees</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">Funds should work</span>
+                <span class="relation-text-content-description">Use the deposit just received from<br>the client as initial virtual credits to your<br>counterparties</span>
+            </div><div class="relation-text-content">
+                <span class="relation-text-content-title">You are being a guaranty</span>
+                <span class="relation-text-content-description">Set up smart long-term contracts with<br>your employees and partners for<br>automatic distribution of funds</span>
+            </div>
+        </div>
+        <div class="relation-image-div">
+            <img src="img/business3.png">
+        </div>
+    </div>
+    <div class="magig-items-title-div _left">
+        <h3>Be the <span class="blue-bold-span">owner</span> of your digital life</h3>
+        <p>
+            Fair partnership without multi-page contracts,<br>empty promises and bla-bla-bla
+        </p>
+    </div>
+    <div class="monkeys">
+        <div class="monkeys-item _left">
+            <div class="monkey-item-image">
+                <img src="img/Blind.svg"/>
+            </div>
+            <div class="monkey-item-text">
+                <span class="monkey-item-text-title">We do not see</span>
+                <span class="monkey-item-text-description">We dont see the structure and content of your data<br>We dont see what you sell and what you pay for<br>We dont see the applications you are using</span>
+            </div>
+        </div>
+        <div class="monkeys-item _right">
+            <div class="monkey-item-image">
+                <img src="img/Deaf.svg"/>
+            </div>
+            <div class="monkey-item-text">
+                <span class="monkey-item-text-title">We do not hear</span>
+                <span class="monkey-item-text-description">We do not know who you are chatting with<br>We do not know your agreements and preferences<br>We do not know what you are watching and listening to</span>
+            </div>
+        </div>
+        <div class="monkeys-item _left">
+            <div class="monkey-item-image">
+                <img src="img/Silence.svg"/>
+            </div>
+            <div class="monkey-item-text">
+                <span class="monkey-item-text-title">We do not speak</span>
+                <span class="monkey-item-text-description">We have no access to your data, so it won’t be shared<br>We show no ads as we know nothing about you<br>We cannot block or delete your account</span>
+            </div>
+        </div>
+        <div class="monkeys-item _right">
+            <div class="monkey-item-image">
+                <img src="img/Account.svg"/>
+            </div>
+            <div class="monkey-item-text">
+                <span class="monkey-item-text-title">You control everything</span>
+                <span class="monkey-item-text-description">You are the only king of your data<br>You are responsible for storing your personal data<br>and the content</span>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer-compass">
+    <div class="compass-image">
+        <img src="img/compas.svg"/>
+    </div>
+    <div class="compass-text">
+        <span class="compass-text-title">Are you gonna go your way?</span>
+        <span class="compass-text-description">Controlling your digital life, you keep your<br>real future in your hands</span>
+        <button class="gradient-button">GET INVITED</button>
+    </div>
+</div>
+<div class="footer-div">
+    <div class="footer-menu-div">
+        <ul class="menu-ul">
+            <a href="faq.html"><li class="menu-li">FAQ</li></a>
+            <a href="about.html"><li class="menu-li">About</li></a>
+        </ul>
+    </div>
+    <div class="footer-copyright-div">
+
+    </div>
+</div>
+</body>
+<script type="application/javascript">
+    function tabClick(elem, infoBlockId) {
+        setInactiveElems("magic-tab");
+        setInactiveElems("tab-info-div");
+
+        elem.classList.add("_active");
+        document.getElementById(infoBlockId).classList.add("_active");
+    }
+
+    function setInactiveElems(className) {
+        var elems = document.getElementsByClassName(className);
+        for (var index in elems) {
+            elems.item(index).classList.remove("_active");
+        }
+    }
+
+    function relationClick(elem, tabsId) {
+        setInactiveElems("relationship-kind-item-div");
+        setInactiveElems("relationship-tabs");
+
+        elem.classList.add("_active");
+        document.getElementById(tabsId).classList.add("_active")
+    }
+
+    function relationSubTabClick(elem, id) {
+        setInactiveElems("relation-tab-title");
+        setInactiveElems("relation-tab-content");
+
+        elem.classList.add("_active");
+        document.getElementById(id).classList.add("_active")
+
+
+    }
+</script>
+</html>
