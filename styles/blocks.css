@@ -158,6 +158,8 @@ img {
 
 .relation-text-div {
     flex: 3;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .email-enput:focus, .email-enput:focus{
