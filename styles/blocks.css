@@ -4,6 +4,11 @@ body {
     font-family: SFProText;
     padding: 0;
     margin: 0;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none;
 }
 
 img {
@@ -122,6 +127,8 @@ img {
 
 .different-items {
     overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .relationship-kinds-div {
@@ -180,7 +187,8 @@ img {
 
 
 .monkeys {
-    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 
