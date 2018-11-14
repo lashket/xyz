@@ -20,7 +20,6 @@ img {
     padding: 0 10%;
 }
 
-
 .header-div {
     margin-top: 20px;
     vertical-align: center;
@@ -82,7 +81,6 @@ img {
     text-align: left;
 }
 
-
 .blue-bold-span {
     font-weight: bold;
     color: #2c8aff;
@@ -113,7 +111,6 @@ img {
     display: flex;
 }
 
-
 .tab-info-div {
     display: none;
 }
@@ -123,7 +120,6 @@ img {
     align-items: center;
     height: 100%;
 }
-
 
 .different-items {
     overflow: hidden;
@@ -137,8 +133,7 @@ img {
     justify-content: center;
 }
 
-
-.relation-tab-title._active span{
+.relation-tab-title._active span {
     font-weight: 600;
     color: #0b284c;
 }
@@ -146,7 +141,6 @@ img {
 .relation-tab-title._active {
     border-bottom: solid 1px #2c8aff;
 }
-
 
 .relation-tab-content._active {
     display: flex;
@@ -162,10 +156,9 @@ img {
     flex-wrap: wrap;
 }
 
-.email-enput:focus, .email-enput:focus{
+.email-enput:focus, .email-enput:focus {
     outline: none;
 }
-
 
 .footer-menu-div {
     flex: 1;
@@ -177,7 +170,6 @@ img {
     justify-content: right;
 }
 
-
 .menu-ul {
     list-style-type: none;
     margin: auto 0;
@@ -187,19 +179,17 @@ img {
 
 }
 
-
 .monkeys {
     display: flex;
     flex-wrap: wrap;
 }
 
-
 .monkeys-item._left {
-    margin-right: 1%;
+    margin-right: 2%;
 }
 
 .monkeys-item._right {
-    margin-left: 1%;
+    margin-left: 2%;
 }
 
 .monkey-item-image {
@@ -218,6 +208,7 @@ img {
     justify-content: center;
     display: flex;
 }
+
 /*about screen*/
 
 .single-inspiration-div {
@@ -235,7 +226,6 @@ img {
     flex: 1;
 }
 
-
 .horizontal-2-blocks {
     display: flex;
     flex-direction: row;
@@ -246,13 +236,13 @@ img {
     display: flex;
     justify-content: center;
 }
+
 /*faq*/
 
 .monkey {
     width: 100%;
 
 }
-
 
 .monkey-text-div {
     /*margin-top: 50%;*/
@@ -262,7 +252,6 @@ img {
     width: 50%;
     flex-direction: column;
 }
-
 
 .column-2-div {
     display: flex;
@@ -280,7 +269,6 @@ img {
     display: flex;
     flex-direction: column;
 }
-
 
 .question-item-answer._collapsed {
     display: none;
@@ -305,6 +293,30 @@ img {
     border-bottom: none;
 }
 
+.w3-modal {
+    z-index: 3;
+    display: none;
+    padding-top: 100px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+
+}
+
+.w3-modal-content {
+    margin: auto;
+    position: relative;
+    padding: 0;
+    outline: 0;
+    width: 1114px;
+    border-radius: 10px;
+    box-shadow: 0 2px 16px 0 rgba(27, 67, 117, 0.1);
+    border: solid 1px #e1e7ef;
+    background-color: #ffffff;
+}
 
 @font-face {
     font-family: 'SFProText'; /*a name to be used later*/
